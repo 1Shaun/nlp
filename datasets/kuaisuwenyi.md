@@ -1,6 +1,6 @@
 
 # anhuidianxinzhidao 说明
-- 下载地址： [百度网盘](https://pan.baidu.com/s/1f_TD54sYA015FbeUzThBjw)  提取码：0q4h
+- 下载地址： [百度网盘](https://pan.baidu.com/s/17Cj5tWHtVAVOz_--Bgb0Fg)  提取码：08F3
 - 数据概览： 15.6 万条电信问答数据
 - 推荐实验： FAQ 问答系统
 - 数据来源： 快速问医网
